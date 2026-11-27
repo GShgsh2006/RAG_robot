@@ -1,3 +1,8 @@
+RAG/shujuku/.env
+hdwj/chroma_db/
+.env
+.idea
+.shujuku
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
